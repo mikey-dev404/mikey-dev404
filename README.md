@@ -1,16 +1,25 @@
-# Mikey
+# Matic Muha
 
-I build web and Android apps.
+I build software for [LuxHouse](https://github.com/mikey-dev404/luxhouse-client-portal) and for other product work. Day to day that is web apps in TypeScript, an Android app in Kotlin, and Python when the job is video or machine learning.
 
-## What I work on
+## Public projects
 
-- [LuxHouse Client Portal](https://github.com/mikey-dev404/luxhouse-client-portal) — a Next.js portal with login, a dashboard, and project pages
-- [Atlas Offline](https://github.com/mikey-dev404/atlas-offline) — an Android workout log that keeps workouts, cardio, and templates on the device
-- [Atlas Offline Web](https://github.com/mikey-dev404/Atlas-Offline-Web) — the same tracker in the browser, stored locally with IndexedDB
+- [LuxHouse Client Portal](https://github.com/mikey-dev404/luxhouse-client-portal) — sign-in, dashboard, and project pages for clients
+- [Atlas Offline](https://github.com/mikey-dev404/atlas-offline) — Android workout log. Workouts, cardio, templates, and a calendar stay on the phone
+- [Atlas Offline Web](https://github.com/mikey-dev404/Atlas-Offline-Web) — the same tracker in the browser, stored with IndexedDB
+
+## Other work
+
+These products are private. Nothing below links to a repository.
+
+- **LuxOS** — the internal system for LuxHouse. It covers projects, clients, invoicing, contracts, and production planning. Staff and clients sign in at different levels. The public client portal is the outside face of this.
+- **LuxHouse Odoo** — theme and desk customizations on top of Odoo (apps bar, chatter, colors, dialogs).
+- **Digiteh** — an operations dashboard for fleet energy: sites, devices, work orders, pipeline warnings, and forecast recommendations.
+- **TV commercial detection** — finds paid ads in Slovenian television from one frame per second. A vision-language model proposes the spots, and a review dashboard is where a person checks them. Training uses commercials that a person has already marked.
 
 ## Tools
 
-TypeScript, React, Next.js, Kotlin, Jetpack Compose
+TypeScript, React, Next.js, Kotlin, Jetpack Compose, Python
 
 ## Contact
 
