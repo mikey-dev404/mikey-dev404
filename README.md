@@ -1,6 +1,8 @@
 # Matic Muha
 
-I build software at LuxHouse and for other product work. Day to day that is web apps in TypeScript, an Android app in Kotlin, and Python when the job is video or machine learning.
+Full-stack developer in Ljubljana. I work on digitalization, optimization, and machine learning: web apps in TypeScript, Android in Kotlin, and Python when the job is video or AI.
+
+[LinkedIn](https://www.linkedin.com/in/maticmuha/)
 
 ## Public projects
 
@@ -20,7 +22,3 @@ These products are private. Nothing below links to a repository.
 ## Tools
 
 TypeScript, React, Next.js, Kotlin, Jetpack Compose, Python
-
-## Contact
-
-Message me here on GitHub.
