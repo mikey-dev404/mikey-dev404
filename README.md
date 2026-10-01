@@ -1,6 +1,6 @@
 # Matic Muha
 
-I build software for [LuxHouse](https://github.com/mikey-dev404/luxhouse-client-portal) and for other product work. Day to day that is web apps in TypeScript, an Android app in Kotlin, and Python when the job is video or machine learning.
+I build software at LuxHouse and for other product work. Day to day that is web apps in TypeScript, an Android app in Kotlin, and Python when the job is video or machine learning.
 
 ## Public projects
 
