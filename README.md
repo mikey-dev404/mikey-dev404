@@ -1,16 +1,17 @@
-## Hi there 👋
+# Mikey
 
-<!--
-**mikey-dev404/mikey-dev404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build web and Android apps.
 
-Here are some ideas to get you started:
+## What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [LuxHouse Client Portal](https://github.com/mikey-dev404/luxhouse-client-portal) — a Next.js portal with login, a dashboard, and project pages
+- [Atlas Offline](https://github.com/mikey-dev404/atlas-offline) — an Android workout log that keeps workouts, cardio, and templates on the device
+- [Atlas Offline Web](https://github.com/mikey-dev404/Atlas-Offline-Web) — the same tracker in the browser, stored locally with IndexedDB
+
+## Tools
+
+TypeScript, React, Next.js, Kotlin, Jetpack Compose
+
+## Contact
+
+Message me here on GitHub.
